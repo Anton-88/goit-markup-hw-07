@@ -1,0 +1,20 @@
+:root {
+    /* colors */
+    --main-text-color: hsl(0, 0%, 46%);
+    --title-color: rgb(33, 33, 33);
+    --footer-bg-color: rgb(47, 48, 58);
+    --accent-color: rgb(33, 150, 243);
+    --pure-white-color: rgb(255, 255, 255);
+    --team-bg-color: rgb(245, 244, 250);
+    --footer-text-color: rgba(255, 255, 255, 0.6);
+    --img-shadow-color: rgb(0, 0, 0);
+    --portfolio-img-border-color: rgb(238, 238, 238);
+    --social-icons-color: rgb(175, 177, 184);
+    --modal-bg-color: rgba(0, 0, 0, 0.2);
+    --modal-btn-color: rgb(24, 140, 232);
+    --header-text-color: rgb(236, 236, 236);
+    /* variables */
+    --grid-item: 3;
+    --transition-function: cubic-bezier(0.4, 0, 0.2, 1);
+    --transition-time: 250ms;
+  }
